@@ -1,0 +1,7 @@
+google-genai
+python-dotenv
+pydantic
+pillow
+edge-tts
+openai-whisper
+moviepy
